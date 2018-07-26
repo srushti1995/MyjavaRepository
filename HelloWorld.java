@@ -16,7 +16,7 @@ System.out.println("Welcomee!!!!!!!");
 
 
 
-display();
+displayDate();
 }
 
 }
