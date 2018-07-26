@@ -3,7 +3,7 @@ class HelloWorld{
 
 void displayDate()
 {
-sysout("display today's date");
+System.out.println("display today's date:");
 }
 
 
